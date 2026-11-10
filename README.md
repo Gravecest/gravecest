@@ -1,6 +1,5 @@
 <!--don't look at this it's a mess bc i'm too used to HTML and CSS </3-->
 <p align="center"><img width="16" src="https://files.catbox.moe/ou9hii.png"><img width="16" src="https://files.catbox.moe/7xfvrr.png"> ${{\color{Red}\Huge{\texttt{Minors please iwc and dnf}}}}$ <img width="16" src="https://files.catbox.moe/4cd4iz.png"><img width="16" src="https://files.catbox.moe/614rsa.png"></p>
-
 <!--SUITS-->
 <p align="center">
 <p align="center">  <img src="https://files.catbox.moe/0rozj1.png" width=640>
